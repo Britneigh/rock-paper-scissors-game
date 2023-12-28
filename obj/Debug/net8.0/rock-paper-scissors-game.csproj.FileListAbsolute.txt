@@ -1,0 +1,14 @@
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\bin\Debug\net8.0\rock-paper-scissors-game.exe
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\bin\Debug\net8.0\rock-paper-scissors-game.deps.json
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\bin\Debug\net8.0\rock-paper-scissors-game.runtimeconfig.json
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\bin\Debug\net8.0\rock-paper-scissors-game.dll
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\bin\Debug\net8.0\rock-paper-scissors-game.pdb
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\obj\Debug\net8.0\rock-paper-scissors-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\obj\Debug\net8.0\rock-paper-scissors-game.AssemblyInfoInputs.cache
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\obj\Debug\net8.0\rock-paper-scissors-game.AssemblyInfo.cs
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\obj\Debug\net8.0\rock-paper-scissors-game.csproj.CoreCompileInputs.cache
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\obj\Debug\net8.0\rock-paper-scissors-game.dll
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\obj\Debug\net8.0\refint\rock-paper-scissors-game.dll
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\obj\Debug\net8.0\rock-paper-scissors-game.pdb
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\obj\Debug\net8.0\rock-paper-scissors-game.genruntimeconfig.cache
+C:\Users\britn\Desktop\VScode\rock-paper-scissors-game\obj\Debug\net8.0\ref\rock-paper-scissors-game.dll
